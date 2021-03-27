@@ -1,0 +1,10 @@
+{
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 23,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_minimap": false,
+	"tab_size": 2
+}
